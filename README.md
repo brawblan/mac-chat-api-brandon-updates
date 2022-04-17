@@ -1,3 +1,5 @@
+I am using this as the base for my Slack Clone App. I have edited/created endpoints and sockets as I needed to use my app the way I wanted.
+
 # mac-chat-api
 Prebuilt api for slack app clone.
 
