@@ -1,5 +1,6 @@
 {
   "name": "slacky-slack",
+  "type": "module",
   "version": "1.0.0",
   "engines": {
     "node": "6.10.2"
